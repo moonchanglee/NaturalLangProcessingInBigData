@@ -1,0 +1,5 @@
+# macOS 시스템 파일
+.DS_Store
+
+# Python
+__pycache__/
